@@ -20,13 +20,33 @@
 //     }
 // }
 
-class hello
-{
+// class hello
+// {
 
- public static void main( String a[])
-    {
-       int p = 3;
+//  public static void main( String a[])
+//     {
+//        int p = 3;
 
-    System.out.println(3<2);
-    }
-}git remote add origin <repository-url>
+//     System.out.println(3<2);
+//     }
+// }
+
+
+// class hello
+// {
+
+//  public static void main( String a[])
+//     {
+//        String num= "akjbg";
+//        num ++;
+       
+//     System.out.println(num);
+//     }
+// }
+public class hello{
+   public static void main(String[] args) {
+       for (int i = 1; i <= 10; i++) {
+           System.out.println("Number: " + i);
+       }
+   }
+}
